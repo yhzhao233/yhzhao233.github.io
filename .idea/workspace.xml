@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bf04760-05c3-479c-a79c-e3c4f7a60f7c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-15-in-the-rain.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-18-26-methods-to-improve-java-performance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-05-c-advaced-programming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-10-markdown-basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-11-markdown-syntax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-15-qualified-programmer-should-read-what-books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-15-use-jekyll-build-blog-on-github.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-18-android-networkOnMainThreadException.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-19-android-UI-Thread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-02-java-multithread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-78-golden-rules-of-the-java-programming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-23-linux-epoll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-24-libevent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-29-why-jdk-string-is-final.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-18-returning-null.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-01-android-opensource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-11-how-http-works.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-22-jsp-jfreechart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-28-xmpp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-30-androidDP-introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-30-how to use smack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-31-androidDP-project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-31-xmpp-analise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-01-android-push.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-01-how-to-evaluate-the-hackers-and-painters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-01-java-nio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-08-java-concurrent-collections.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-14-java-inner-class.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-18-leveldb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-19-web-server.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-29-graph.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-05-improve-webServer-performance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-c-open-project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-18-skip-list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-27-c-code-opt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-04-cache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-01-github-pages-blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-install-texlive-in-ubuntu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-18-android-studio-prefrence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-20-vim-plugins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-12-java-code-opt-one.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-16-android-tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-16-web-transmission-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-java-virtual-mechine.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-30-gradle-task-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-05-gradle-dependency-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-17-define-custom-view.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-19-android-links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-03-java-lambda-expression.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-24-hibernate-cache-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-27-gradle-tasks-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-13-dagger-dependency-injection.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-22-latex-fonts-settings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-23-linux-zsh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-27-volley-source-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-09-android-studio-plugins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-19-tmux-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-20-apache-configuration-in-ubuntu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-18-baidu-spider-forbidden.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-20-git-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-22-hi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/categories.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="comment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/comment.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="copyright.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/copyright.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="hot.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/hot.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="google41eca6f1588fb155.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google41eca6f1588fb155.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="48" selection-start-column="32" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="102" selection-start-line="15" selection-start-column="102" selection-end-line="15" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_includes/search.html" />
+        <option value="$PROJECT_DIR$/search.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EZLippi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EZLippi.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EZLippi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EZLippi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf04760-05c3-479c-a79c-e3c4f7a60f7c" name="Default" comment="" />
+      <created>1533486524642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533486524642</updated>
+      <workItem from="1533486527875" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="385000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_includes/adsense.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/categories.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comment.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/copyright.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/hot.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-15-in-the-rain.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-06-18-26-methods-to-improve-java-performance.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google41eca6f1588fb155.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="102" selection-start-line="15" selection-start-column="102" selection-end-line="15" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
